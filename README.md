@@ -1,6 +1,6 @@
 # Aurelia PS Vita Port
 
-![Aurelia Game Screenshot](https://cdn.discordapp.com/attachments/1300402299356844053/1348408447489671329/23c97b2138f446f20b9e24f8faec56b766cb_1232xr706_Q100_1.jpg?ex=67cf5aba&is=67ce093a&hm=aaea620e214c9be5eaaf653b4f84381897c55484d102f5b9b7cfc6a0f8c89fcd&)
+![Aurelia Game Screenshot](https://cdn.discordapp.com/attachments/1300402299356844053/1348408447489671329/23c97b2138f446f20b9e24f8faec56b766cb_1232xr706_Q100_1.jpg?ex=67da8f7a&is=67d93dfa&hm=79733281193c71961aacdd0faddc1b61ee7b1110fbca1a70e41995f1419ab42e&)
 
 
 This is a port of Aurelia (version 25.0) to the PlayStation Vita. The game runs at a stable 60 FPS. It is technically possible to port all versions of the game up till version 28 because they all use the GMS engine.
@@ -42,7 +42,7 @@ Please respect the rights of the developers and follow the laws regarding softwa
 
 🏆 Credits 🏆
 
-- Mirthal – the original developer of Aurelia. 💻
+- [Mirthal](https://www.mirthal.com/) – the original developer of Aurelia. 💻
 - NFSHubster – for porting the game to the PS Vita. 🎮
 - Community – for their contributions and support. 🌍
 
