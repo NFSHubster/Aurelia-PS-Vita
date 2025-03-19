@@ -12,6 +12,26 @@ This is a port of Aurelia (version 25.0) to the PlayStation Vita. The game runs 
 - The installation of the game's .vpk file will take around 15-20 minutes to complete
 - The game uses the touch-screen controls only ([You can map some controls to the physical buttons by creating a keys.ini file in the game directory](https://gist.github.com/CatoTheYounger97/ce19685d349d913f9a2f097464453c97))
 
+
+📋 Prerequisites 📋 
+
+• Install [kubridge](https://github.com/TheOfficialFloW/kubridge/releases/) and [FdFix](https://github.com/TheOfficialFloW/FdFix/releases/) by copying kubridge.skprx and fd_fix.skprx to your taiHEN plugins folder (it's either located in ux0:tai or ur0:tai) and adding two entries to your config.txt under *KERNEL:
+1) For tai folder located in ux0
+ ```plaintext
+  *KERNEL
+  ux0:tai/kubridge.skprx
+  ux0:tai/fd_fix.skprx
+```
+2) For tai folder located in ur0
+```plaintext
+  *KERNEL
+  ur0:tai/kubridge.skprx
+  ur0:tai/fd_fix.skprx
+```
+📜 Note: Don't install fd_fix.skprx if you're using the rePatch plugin.
+
+• Install [libshacccg.suprx](https://samilops2.gitbook.io/vita-troubleshooting-guide/shader-compiler/extract-libshacccg.suprx), if you don't have it already, by following this guide.
+
 📥 Installation 📥
 
 1) Download the Aurelia PS Vita port .vpk file from this repository. 🔽
