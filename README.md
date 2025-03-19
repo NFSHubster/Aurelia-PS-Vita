@@ -7,7 +7,7 @@ This is a port of Aurelia (version 25.0) to the PlayStation Vita. The game runs 
 
 📝 Important Notes 📝
 
-- The game has around 1-2 framedrops when it first loads but then it stabalizes at 60 FPS
+- The game has around 1-2 framedrops when it first loads but then it stabilizes at 60 FPS
 - The port runs on Aurelia V 25
 - The installation of the game's .vpk file will take around 15-20 minutes to complete
 - The game uses the touch-screen controls only ([You can map some controls to the physical buttons by creating a keys.ini file in the game directory](https://gist.github.com/CatoTheYounger97/ce19685d349d913f9a2f097464453c97))
@@ -50,7 +50,7 @@ This is a port of Aurelia (version 25.0) to the PlayStation Vita. The game runs 
 🐞 Known Issues 🐞
 
 - Only touchpad controls are supported. 🙄
-- Initial 1-2 frame drops when first launching/loading the game, then it stabalizes at a smooth 60 FPS. 🚀
+- Initial 1-2 frame drops when first launching/loading the game, then it stabilizes at a smooth 60 FPS. 🚀
 
 
 ⚠️ Disclaimer ⚠️
