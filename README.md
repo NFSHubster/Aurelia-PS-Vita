@@ -1,16 +1,16 @@
 # Aurelia PS Vita Port
 
-![Aurelia Game Screenshot](https://cdn.discordapp.com/attachments/1300402299356844053/1348408447489671329/23c97b2138f446f20b9e24f8faec56b766cb_1232xr706_Q100_1.jpg?ex=67da8f7a&is=67d93dfa&hm=79733281193c71961aacdd0faddc1b61ee7b1110fbca1a70e41995f1419ab42e&)
+![Aurelia Game Screenshot](https://cdn.discordapp.com/attachments/1300402299356844053/1358403080223199272/header.jpg?ex=67f3b6f4&is=67f26574&hm=d01357659e73c0dbcc05254cf35840b6b5b085f39cfe0d99000affb36b1f76ad&)
 
 
-This is a port of Aurelia (version 25.0) to the PlayStation Vita. The game runs at a stable 60 FPS. It is technically possible to port all versions of the game up till version 28 because they all use the GMS engine.
+This is a port of Aurelia (version 27.1) to the PlayStation Vita. The game runs at a stable 60 FPS. It is technically possible to port all versions of the game up till version 28 because they all use the GMS engine.
 
 📝 Important Notes 📝
 
-- The game has around 1-2 framedrops when it first loads but then it stabilizes at 60 FPS
-- The port runs on Aurelia V 25
-- The installation of the game's .vpk file will take around 15-20 minutes to complete
-- The game uses the touch-screen controls only ([You can map some controls to the physical buttons by creating a keys.ini file in the game directory](https://gist.github.com/CatoTheYounger97/ce19685d349d913f9a2f097464453c97))
+- The game has around 1-2 framedrops when it first loads or renders a new area but then it stabilizes at 60 FPS
+- The port runs on Aurelia V 27.1
+- The installation of the game's .vpk file will take around 10-15 minutes to complete
+- The game uses the touch-screen controls & utilizes the right analog stick & the circle button to mimick a mouse input similar to that on PC ([You can map some controls to the physical buttons by creating a keys.ini file in the game directory](https://gist.github.com/CatoTheYounger97/ce19685d349d913f9a2f097464453c97))
 
 
 📋 Prerequisites 📋 
@@ -49,8 +49,11 @@ This is a port of Aurelia (version 25.0) to the PlayStation Vita. The game runs 
 
 🐞 Known Issues 🐞
 
-- Only touchpad controls are supported. 🙄
-- Initial 1-2 frame drops when first launching/loading the game, then it stabilizes at a smooth 60 FPS. 🚀
+- Touch controls can sometimes act out and register unintended presses
+
+- Right Analog Sensitivity is too high
+
+- Initial 1-2 frame drops when first launching/loading the game or a new area, then it stabilizes at a smooth 60 FPS. 🚀
 
 
 ⚠️ Disclaimer ⚠️
